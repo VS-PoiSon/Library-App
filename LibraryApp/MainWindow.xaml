@@ -119,7 +119,7 @@
 
         <Style TargetType="ComboBox">
             <Setter Property="Background" Value="#1A1A1A"/>
-            <Setter Property="Foreground" Value="#E8E8E8"/>
+            <Setter Property="Foreground" Value="#808080"/>
             <Setter Property="BorderBrush" Value="#2A2A2A"/>
             <Setter Property="BorderThickness" Value="1"/>
             <Setter Property="Padding" Value="10,6"/>
